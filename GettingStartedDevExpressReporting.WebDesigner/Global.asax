@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="GettingStartedDevExpressReporting.WebDesigner.Global_asax" Language="C#" %>
